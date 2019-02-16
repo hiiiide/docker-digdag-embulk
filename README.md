@@ -1,7 +1,7 @@
 # docker-digdag-embulk
 An Alpine Linux based ETL workflow container.
 
-![dockeri.co](http://dockeri.co/image/exelexe/docker-digdag-embulk)
+[![dockeri.co](https://dockeri.co/image/exelexe/digdag-embulk)](https://hub.docker.com/r/exelexe/digdag-embulk)
 
 ## Docker Tags
 
@@ -10,7 +10,9 @@ An Alpine Linux based ETL workflow container.
 - [`0.0.0-alpine3.8`](https://github.com/exelexe/docker-digdag-embulk/blob/master/0.0.0/alpine3.8/Dockerfile)
 
 
-## How to use.
+## How to use
+
+For example
 
 ```
 FROM exelexe/digdag-embulk:latest
