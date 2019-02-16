@@ -22,5 +22,5 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ### Added
 
 - Base image: alpine:3.8
-- Digdag: 0.9.28
-- Enbulk: 0.9.14
+  - Digdag: 0.9.28
+  - Enbulk: 0.9.14
