@@ -6,7 +6,7 @@ An Alpine Linux based ETL workflow container.
 ## Docker Tags
 - [`0.2.0-ruby2.6-alpine3.9`, `latest`](https://github.com/exelexe/docker-digdag-embulk/blob/master/0.2.0/ruby2.6-alpine3.9/Dockerfile)
 - [`0.2.0-alpine3.9`](https://github.com/exelexe/docker-digdag-embulk/blob/master/0.2.0/alpine3.9/Dockerfile)
-- [`0.1.0-ruby2.6-alpine3.9`, `latest`](https://github.com/exelexe/docker-digdag-embulk/blob/master/0.1.0/ruby2.6-alpine3.9/Dockerfile)
+- [`0.1.0-ruby2.6-alpine3.9`](https://github.com/exelexe/docker-digdag-embulk/blob/master/0.1.0/ruby2.6-alpine3.9/Dockerfile)
 - [`0.1.0-alpine3.9`](https://github.com/exelexe/docker-digdag-embulk/blob/master/0.1.0/alpine3.9/Dockerfile)
 - [`0.0.0-alpine3.8`](https://github.com/exelexe/docker-digdag-embulk/blob/master/0.0.0/alpine3.8/Dockerfile)
 
