@@ -17,7 +17,7 @@ An Alpine Linux based ETL workflow container.
 
 For example
 
-```
+```Dockerfile
 FROM exelexe/digdag-embulk:latest
 
 RUN embulk gem install \
